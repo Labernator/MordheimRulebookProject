@@ -1,3 +1,4 @@
 # MordheimRulebookProject
 A printable, readable almanac for Mordheim
-rulebook/The Mordheim Almanac.pub
+
+[The Almanac](rulebook/The Mordheim Almanac.pdf)
